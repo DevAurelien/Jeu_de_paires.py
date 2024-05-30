@@ -146,7 +146,7 @@ if __name__ == "__main__":
     oui_non = ""
     print()
     print("Bienvenue au Jeu de Paires !\n")
-    # nom_joueur = input("Comment t'appelles-tu ?\n").lower().title()
+    # nom_joueur = input("Comment tu t'appelles ?\n").lower().title()
     perso = Joueur("nom_joueur")
     print()
     # if db.search(user.nom == perso.nom) != []:
